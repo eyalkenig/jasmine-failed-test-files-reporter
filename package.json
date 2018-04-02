@@ -1,6 +1,6 @@
 {
   "name": "jasmine-failed-test-files-reporter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "jasmine reporter that enables you to know which test files have failed",
   "main": "index.js",
   "scripts": {
