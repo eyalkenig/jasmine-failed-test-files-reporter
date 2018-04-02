@@ -1,0 +1,26 @@
+{
+  "name": "jasmine-failed-test-files-reporter",
+  "version": "0.1.1",
+  "description": "jasmine reporter that enables you to know which test files have failed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyalkenig/jasmine-failed-test-files-reporter.git"
+  },
+  "keywords": [
+    "jasmine",
+    "reporter",
+    "failed",
+    "tests"
+  ],
+  "author": "Eyal Kenig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eyalkenig/jasmine-failed-test-files-reporter/issues"
+  },
+  "homepage": "https://github.com/eyalkenig/jasmine-failed-test-files-reporter#readme",
+  "dependencies": {}
+}
